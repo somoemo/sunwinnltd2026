@@ -4,7 +4,7 @@
 
 <div class="cta-box">
 <p>Khám phá ngay cổng game chính thức tại:</p>
-<a href="https://sunwinn.ltd/" target="_blank" rel="nofollow">Link Tải Sunwin Chuẩn Mới Nhất</a>
+<a href="https://sunwinn.ltd/" target="_blank" rel="nofollow">Sunwin</a>
 </div>
 
 <section>
